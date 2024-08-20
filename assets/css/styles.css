@@ -24,7 +24,7 @@ nav { background-color: #FFB81C; padding: .5em 1em .5em 2em; height: 3em; displa
 
 nav a.button { margin-right: 1em; z-index: 1; font-size: .8em; letter-spacing: .4rem; }
 
-.logo { width: 20em; background-image: url(/~btn10/assets/images/logo.svg); border: 0; background-size: contain; background-repeat: no-repeat; background-position: center center; }
+.logo { width: 20em; background-image: url(/assets/images/logo.svg); border: 0; background-size: contain; background-repeat: no-repeat; background-position: center center; }
 
 #nav-top { background-color: #FFB81C; width: 100%; height: .5em; }
 
